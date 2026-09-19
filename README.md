@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Competitive AI Solutions](https://github.com/RaduGoga/competitive-ai-solutions)
 
-- 🌱 I’m currently learning **C++ DSA, AI**
+- 🌱 I’m currently learning **CP and AI**
 
 - 📫 How to reach me **raduiliegoga@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/radu ilie-goga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radu ilie-goga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/radu-ilie-goga-1a8a08285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radu-ilie-goga-1a8a08285" height="30" width="40" /></a>
 <a href="https://kaggle.com/radugoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="radugoga" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/radugoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="radugoga" height="30" width="40" /></a>
 </p>
